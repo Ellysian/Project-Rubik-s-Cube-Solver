@@ -1,1 +1,1 @@
-# EE417-Project-Rubik-s-Cube-Solver
+# Rubik-s-Cube-Solver
